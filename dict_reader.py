@@ -1,10 +1,4 @@
-
-
-
 #hypy Evan Racah and Thorsten Kurth
-
-
-
 import numpy as np
 import math
 
